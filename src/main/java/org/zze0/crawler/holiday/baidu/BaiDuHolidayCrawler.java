@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
  * @since 2021/6/13
  */
 @Slf4j
-public class BaiDuHolidayCarwler {
+public class BaiDuHolidayCrawler {
 
     /**
      * 年度法定节假日查询接口地址
